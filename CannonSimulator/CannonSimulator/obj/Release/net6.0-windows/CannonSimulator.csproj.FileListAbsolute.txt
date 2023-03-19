@@ -1,0 +1,15 @@
+G:\app\CannonSimulator\CannonSimulator\bin\Release\net6.0-windows\CannonSimulator.exe
+G:\app\CannonSimulator\CannonSimulator\bin\Release\net6.0-windows\CannonSimulator.deps.json
+G:\app\CannonSimulator\CannonSimulator\bin\Release\net6.0-windows\CannonSimulator.runtimeconfig.json
+G:\app\CannonSimulator\CannonSimulator\bin\Release\net6.0-windows\CannonSimulator.dll
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.csproj.AssemblyReference.cache
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.Form1.resources
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.csproj.GenerateResource.cache
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.GeneratedMSBuildEditorConfig.editorconfig
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.AssemblyInfoInputs.cache
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.AssemblyInfo.cs
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.csproj.CoreCompileInputs.cache
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.dll
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\refint\CannonSimulator.dll
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\CannonSimulator.genruntimeconfig.cache
+G:\app\CannonSimulator\CannonSimulator\obj\Release\net6.0-windows\ref\CannonSimulator.dll
